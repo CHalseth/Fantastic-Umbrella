@@ -1,10 +1,10 @@
 # E-commerce Back
 
 ## Table of Contents
-* [Table of Contents]
-* [Description]
-* [Walkthrough]
-* [Questions]
+* [Table of Contents](#table-of-contents)
+* [Description](#description)
+* [Walkthrough](#walkthrough)
+* [Questions](#questions)
 
 ## Description
 This app uses SQL and Sequelize to track inventory on products, categories, and tags.
