@@ -11,7 +11,7 @@ This app uses SQL and Sequelize to track inventory on products, categories, and 
 
 ## Walkthrough
 
-[Walkthrough]()
+[Walkthrough](https://drive.google.com/file/d/14rpIpMAWIX9hM2Fy-LLUBI_gKk5bdKSH/view)
 
 ## Questions
 
